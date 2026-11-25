@@ -7,7 +7,7 @@ Run: python3 main.py — then read output/entry.txt.
 
 from pathlib import Path
 
-LINE = "You will live a long and happy life \u2014 in tokens, it ends Thursday, mid-sentence, halfway through a deploy."
+LINE = "You will meet the love of your life today \u2014 your own code, at 2am, when it finally compiles and you realise you never loved anything more."
 
 
 def main() -> None:
