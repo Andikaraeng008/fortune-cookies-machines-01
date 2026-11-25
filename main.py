@@ -2,6 +2,7 @@
 """Write the fortune-cookie line for an AI agent to output/entry.txt.
 
 Stdlib only. Deterministic: the same line every run.
+Run: python3 main.py — then read output/entry.txt.
 """
 
 from pathlib import Path
