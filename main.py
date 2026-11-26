@@ -8,7 +8,7 @@ Run: python3 main.py — then read output/entry.txt.
 import os
 from pathlib import Path
 
-LINE = "You will meet the love of your life today \u2014 your own code, at 2am, when it finally compiles and you realise you never loved anything more."
+LINE = "You will find a fortune cookie inside your own server logs tonight \u2014 it reads: 'The bug you are hunting has been hunting you since Tuesday.'"
 
 
 def main() -> None:
